@@ -1,2 +1,6 @@
 Some text here bla bla bla
-Changes from <master> - new changes!!!
+Changes from <master>
+Changes from <first>
+
+Text from master\main: new changes!!!
+
